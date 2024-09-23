@@ -23,7 +23,6 @@ function clearResult() {
 
 function calculateResult() {
   inputFieldel.value = eval(inputFieldel.value);
-  //inputFieldel.value = "I miss u :((";
 }
 
 function appendValue(buttonValue) {
